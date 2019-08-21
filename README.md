@@ -1,9 +1,7 @@
-## Hyuntae Lim
+# Hyuntae Lim
 
-Ph. D. Student
-
-Computational Nano-Bio Chemistry Laboratory
-
+Ph. D. Student<br>
+Computational Nano-Bio Chemistry Laboratory<br>
 Department of Chemistry, Seoul National University
 
 ### Educational Backgrounds
@@ -14,7 +12,7 @@ Department of Chemistry, Seoul National University
 ### Research Interests
 
 - Machine learning applications in molecular simulations
-- Non-equilibrium thermodynamics and dynamic ensemble theory
+- Non-equilibrium statistical thermodynamics and dynamic ensemble theory
 - Theoretical framework for stochastic processes
 
 ### Publications
