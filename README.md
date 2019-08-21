@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Hyuntae Lim
 
-You can use the [editor on GitHub](https://github.com/ht0620/ht0620.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ph. D. Student
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Computational Nano-Bio Chemistry Laboratory
 
-### Markdown
+Department of Chemistry, Seoul National University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Educational Backgrounds
 
-```markdown
-Syntax highlighted code block
+- B.S. Chemistry, Seoul National University
+- B.S. Physics, Seoul National University
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interests
 
-- Bulleted
-- List
+- Machine learning applications in molecular simulations
+- Non-equilibrium thermodynamics and dynamic ensemble theory
+- Theoretical framework for stochastic processes
 
-1. Numbered
-2. List
+### Publications
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ht0620/ht0620.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- H. Lim and Y. Jung, _Chem. Sci._, 2019, Accepted Manuscript, 10.1039/C9SC02452B
