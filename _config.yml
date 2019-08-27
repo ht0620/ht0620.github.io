@@ -1,1 +1,11 @@
-theme: jekyll-theme-slate
+# Theme
+theme			: jekyll-theme-slate
+
+# Site Settings
+locale			: "en-US"
+title			: "CNBC"
+title_separator	: "-"
+name			: "Hyuntae Lim"
+description		: "Hyuntae Lim's personal website"
+url				: "https://ht0620.github.io"
+baseurl			: ""
