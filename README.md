@@ -17,4 +17,4 @@ Department of Chemistry, Seoul National University
 
 ### Publications
 
-- H. Lim and Y. Jung, _Chem. Sci._, 2019, Accepted Manuscript, 10.1039/C9SC02452B
+- H. Lim and Y. Jung, _Chem. Sci._, 2019, 10, 8306-8315
