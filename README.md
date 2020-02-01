@@ -1,6 +1,6 @@
 # Hyuntae Lim
 
-Ph. D. Student<br>
+Ph. D.<br>
 Computational Nano-Bio Chemistry Laboratory<br>
 Department of Chemistry, Seoul National University
 
@@ -8,6 +8,7 @@ Department of Chemistry, Seoul National University
 
 - B.S. Chemistry, Seoul National University
 - B.S. Physics, Seoul National University
+- Ph. D. Chemistry, Seoul National University
 
 ### Research Interests
 
