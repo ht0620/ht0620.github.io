@@ -18,4 +18,7 @@ Department of Chemistry, Seoul National University
 
 ### Publications
 
-- H. Lim and Y. Jung, _Chem. Sci._, 2019, 10, 8306-8315
+- "MLSolv-A: A Novel Machine Learning-Based Prediction of Solvation Free Energies from Pairwise Atomistic Interactions",
+H. Lim and Y. Jung, arXiv:2005.06182
+- "Delfos: deep learning model for prediction of solvation free energies in generic organic solvents",
+H. Lim and Y. Jung, _Chem. Sci._, 2019, 10, 8306-8315
